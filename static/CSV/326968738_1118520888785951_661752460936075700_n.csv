@@ -1,0 +1,34 @@
+"Cost per conversation in USD, effective until May 31, 2023",,,
+Market,Currency,Business-Initiated Rate,User-Initiated Rate
+Argentina,$US,0.0526,0.0316
+Brazil,$US,0.0500,0.0300
+Chile,$US,0.0757,0.0454
+Colombia,$US,0.0100,0.0060
+Egypt,$US,0.1073,0.0644
+France,$US,0.1432,0.0859
+Germany,$US,0.1365,0.0819
+India,$US,0.0066,0.0040
+Indonesia,$US,0.0316,0.0190
+Israel,$US,0.0300,0.0180
+Italy,$US,0.0643,0.0386
+Malaysia,$US,0.0732,0.0220
+Mexico,$US,0.0349,0.0105
+Netherlands,$US,0.1485,0.0891
+Nigeria,$US,0.0516,0.0310
+Pakistan,$US,0.0473,0.0142
+Peru,$US,0.0598,0.0179
+Russia,$US,0.0663,0.0398
+Saudi Arabia,$US,0.0325,0.0195
+South Africa,$US,0.0280,0.0168
+Spain,$US,0.0615,0.0369
+Turkey,$US,0.0100,0.0030
+United Arab Emirates,$US,0.0316,0.0190
+United Kingdom,$US,0.0647,0.0388
+North America,$US,0.0147,0.0088
+Rest of Africa,$US,0.1208,0.0363
+Rest of Asia Pacific,$US,0.0745,0.0224
+Rest of Central & Eastern Europe,$US,0.0835,0.0250
+Rest of Latin America,$US,0.0706,0.0423
+Rest of Middle East,$US,0.0727,0.0218
+Rest of Western Europe,$US,0.1324,0.0397
+Other,$US,0.0483,0.0145
